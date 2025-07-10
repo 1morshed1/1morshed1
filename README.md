@@ -57,7 +57,6 @@ Here are some of the technologies and tools I enjoy working with:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FFC107?style=for-the-badge&logo=google&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolov5&logoColor=white)
-![Detectron2](https://img.shields.io/badge/Detectron2-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
 ### 🤖 Robotics & Hardware
 ![ROS](https://img.shields.io/badge/ROS-220033?style=for-the-badge&logo=ros&logoColor=white)
@@ -79,7 +78,6 @@ Here are some of the technologies and tools I enjoy working with:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0045A1?style=for-the-badge&logo=mlflow&logoColor=white)
 
 
 
@@ -96,7 +94,6 @@ You can find me on these competitive programming platforms:
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ilia_volyova)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ilia_volyova)
 [![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/ilia_volyova)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ilia_volyova/)
 
 ---
 
