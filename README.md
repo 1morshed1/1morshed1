@@ -43,10 +43,22 @@ Here are some of the technologies and tools I enjoy working with:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 ## What I'm Up To
 
 I'm constantly **learning** new things and seeking **new opportunities** to grow as an engineer. I'm always open to collaborating on interesting projects or discussing innovative ideas in the tech space.
+
+---
+
+## Competitive Programming Profiles
+
+You can find me on these competitive programming platforms:
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ilia_volyova)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ilia_volyova)
+[![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/ilia_volyova)
 
 ---
 
