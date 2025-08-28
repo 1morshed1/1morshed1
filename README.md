@@ -92,7 +92,6 @@ I'm constantly **learning** new things and seeking **new opportunities** to grow
 
 Let's connect and explore the possibilities!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morshed-jamal-a2ab66170/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)](https://1morshed1.github.io/portfolio/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morshedfahim87@gmail.com)
 
 ---
