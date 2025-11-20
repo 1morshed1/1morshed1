@@ -21,13 +21,13 @@ When I'm not building AI systems, you'll find me optimizing algorithms or explor
 
 ## Professional Experience
 
-**Machine Learning Engineer @ Shothik AI** *(September 2025 - Present)*
+**Machine Learning Engineer @ Shothik AI** *(June 2025 - Present)*
 - Developed an MCP (Model Context Protocol) server enabling natural language-based CRUD operations on databases
 - Built FastAPI-based microservices for intelligent HTML template retrieval using MongoDB and Google ADK agentic framework
 - Engineered automated Inception Report Generator with Google Maps API integration and Gemini 2.5 Flash vision capabilities
 - Implemented dynamic image search and content generation workflows with end-to-end reporting solutions
 
-**Machine Learning Engineer @ Deep Mind Labs AI** *(January 2025 - September 2025)*
+**Machine Learning Engineer @ Deep Mind Labs AI** *(January 2025 - June 2025)*
 - Optimized HRNet architecture for pose estimation, achieving superior accuracy through advanced data augmentation
 - Designed and deployed RAG systems with FAISS vector store, OpenAI embeddings, and agentic AI frameworks
 - Integrated MCP servers for seamless PDF and image data ingestion with Flask backend
