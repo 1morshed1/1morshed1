@@ -13,24 +13,13 @@
 
 ## About Me
 
-I'm a passionate **Machine Learning Engineer** with **professional experience in AI development** and a strong focus on building intelligent systems. Currently working at **Shothik AI**, I've accumulated experience across multiple AI domains including **Computer Vision**, **Natural Language Processing**, **Agentic AI systems**, and **MLOps**.
+I'm a passionate **Machine Learning Engineer** with **professional experience in AI development** and a strong focus on building intelligent systems. I've accumulated experience across multiple AI domains including **Computer Vision**, **Natural Language Processing**, **Agentic AI systems**, and **MLOps**.
 
 My expertise spans the entire ML lifecycle - from research and development to deployment and scaling in production environments. I specialize in developing **RAG systems**, **agentic AI frameworks**, and **computer vision solutions** that solve real-world problems.
 
 When I'm not building AI systems, you'll find me optimizing algorithms or exploring cutting-edge developments in **multi-agent systems** and **autonomous robotics**.
 
 ## Professional Experience
-
-**Machine Learning Engineer @ Shothik AI** *(June 2025 - Present)*
-- Developed an MCP (Model Context Protocol) server enabling natural language-based CRUD operations on databases
-- Built FastAPI-based microservices for intelligent HTML template retrieval using MongoDB and Google ADK agentic framework
-- Engineered automated Inception Report Generator with Google Maps API integration and Gemini 2.5 Flash vision capabilities
-- Implemented dynamic image search and content generation workflows with end-to-end reporting solutions
-
-**Machine Learning Engineer @ Deep Mind Labs AI** *(January 2025 - June 2025)*
-- Optimized HRNet architecture for pose estimation, achieving superior accuracy through advanced data augmentation
-- Designed and deployed RAG systems with FAISS vector store, OpenAI embeddings, and agentic AI frameworks
-- Integrated MCP servers for seamless PDF and image data ingestion with Flask backend
 
 **Software Sub-team Member @ Team Interplaneter, BUET** *(January 2019 - November 2024)*
 - Built computer vision pipelines for real-time object and ArUco marker detection
@@ -126,7 +115,7 @@ When I'm not building AI systems, you'll find me optimizing algorithms or explor
 
 ## What I'm Up To
 
-I'm actively working on cutting-edge **agentic AI systems** and **MLOps solutions** at Shothik AI, focusing on building scalable, production-ready AI applications. I'm particularly interested in **Model Context Protocol (MCP)**, **multimodal AI**, and **conversational database interfaces**.
+I'm actively working on cutting-edge **agentic AI systems** and **MLOps solutions** , focusing on building scalable, production-ready AI applications. I'm particularly interested in **Model Context Protocol (MCP)**, **multimodal AI**, and **conversational database interfaces**.
 
 Always open to collaborating on innovative AI projects or discussing the future of intelligent systems!
 
