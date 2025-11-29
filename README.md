@@ -8,7 +8,6 @@
 
 🎓 Graduate | Mechanical Engineering, BUET  
 💻 Machine Learning Engineer | Computer Vision & NLP Developer  
-🏢 Current: ML Engineer @ Shothik AI | Former AI Engineer @ Deep Mind Labs  
 📍 Based in Bangladesh
 
 ## About Me
