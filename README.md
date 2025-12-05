@@ -18,12 +18,6 @@ My expertise spans the entire ML lifecycle - from research and development to de
 
 When I'm not building AI systems, you'll find me optimizing algorithms or exploring cutting-edge developments in **multi-agent systems** and **autonomous robotics**.
 
-## Professional Experience
-
-**Software Sub-team Member @ Team Interplaneter, BUET** *(January 2019 - November 2024)*
-- Built computer vision pipelines for real-time object and ArUco marker detection
-- Deployed control systems on Raspberry Pi and NVIDIA Jetson Xavier NX
-- Simulated autonomous navigation and 6-DOF robotic arm control using ROS
 
 ## My Toolkit 🚀
 
