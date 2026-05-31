@@ -6,126 +6,81 @@
   </a>
 </p>
 
-🎓 Graduate | Mechanical Engineering, BUET  
-💻 Machine Learning Engineer | Computer Vision & NLP Developer  
-📍 Based in Bangladesh
+🎓 B.Sc. Mechanical Engineering, BUET  
+💻 Machine Learning Engineer @ **Shothik AI**  
+📍 Dhaka, Bangladesh
 
 ## About Me
 
-I'm a passionate **Machine Learning Engineer** with **professional experience in AI development** and a strong focus on building intelligent systems. I've accumulated experience across multiple AI domains including **Computer Vision**, **Natural Language Processing**, **Agentic AI systems**, and **MLOps**.
+**Machine Learning Engineer** with 2 years of experience building and deploying **LLM-powered systems**, **agentic AI copilots**, and **production-grade RAG applications**. Skilled in end-to-end ML pipelines, multi-agent orchestration, and scalable backend architecture across cloud, containerized, and edge deployments.
 
-My expertise spans the entire ML lifecycle - from research and development to deployment and scaling in production environments. I specialize in developing **RAG systems**, **agentic AI frameworks**, and **computer vision solutions** that solve real-world problems.
-
-When I'm not building AI systems, you'll find me optimizing algorithms or exploring cutting-edge developments in **multi-agent systems** and **autonomous robotics**.
+Delivered enterprise AI solutions including a **multimodal agricultural intelligence platform**, an **ERP copilot**, and a **multi-agent call center system**.
 
 
 ## My Toolkit 🚀
 
-### Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Web Technologies
+### ML/AI & Agents
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend Frameworks
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### ML & Data Science Libraries
-
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-1473E6?style=for-the-badge&logo=xgboost&logoColor=white)
-
-### NLP & LLM Tools
-
-![Transformers](https://img.shields.io/badge/Transformers-orange?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-F8F8F8?style=for-the-badge&logo=langchain&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD339?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-393939?style=for-the-badge&logoColor=white)
-
-### Agentic AI & Multi-Agent Systems
-
-![OpenAI SDK](https://img.shields.io/badge/OpenAI%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-4CAF50?style=for-the-badge&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-9C27B0?style=for-the-badge&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-2196F3?style=for-the-badge&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### Computer Vision
-
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolov5&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FFC107?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-F8F8F8?style=for-the-badge&logo=langchain&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-4CAF50?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Robotics & Hardware
-
-![ROS](https://img.shields.io/badge/ROS-220033?style=for-the-badge&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-7986CB?style=for-the-badge&logoColor=white)
-![RViz](https://img.shields.io/badge/RViz-4C6EF5?style=for-the-badge&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-### DevOps
+### MLOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### MLOps
-
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=data-version-control&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DagsHub](https://img.shields.io/badge/DagsHub-1A1E22?style=for-the-badge&logo=dagshub&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=data-version-control&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Databases
+### Cloud Platforms
 
+![AWS](https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP%20Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Backend & Data
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20(pgvector)-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-3B5998?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Tools & Environments
+## What I'm Working On
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## What I'm Up To
-
-I'm actively working on cutting-edge **agentic AI systems** and **MLOps solutions** , focusing on building scalable, production-ready AI applications. I'm particularly interested in **Model Context Protocol (MCP)**, **multimodal AI**, and **conversational database interfaces**.
-
-Always open to collaborating on innovative AI projects or discussing the future of intelligent systems!
+Currently at **Shothik AI**, building **multi-agent AI systems** with LangGraph and MCP, **production-grade RAG pipelines**, and **AI copilots** for enterprise clients. Recent work includes call center automation, ERP natural-language interfaces, and multimodal report generation with Gemini and Google ADK.
 
 ---
 
 ## Connect With Me
 
-Let's connect and explore the possibilities of AI together!
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)](https://1morshed1.github.io/portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morshedfahim87@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morshed-jamal-a2ab66170/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1morshed1)
 
 ---
