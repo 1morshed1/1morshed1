@@ -7,14 +7,30 @@
 </p>
 
 🎓 B.Sc. Mechanical Engineering, BUET  
-💻 Machine Learning Engineer @ **Shothik AI**  
+💻 Machine Learning Engineer  
 📍 Dhaka, Bangladesh
 
 ## About Me
 
-**Machine Learning Engineer** with 2 years of experience building and deploying **LLM-powered systems**, **agentic AI copilots**, and **production-grade RAG applications**. Skilled in end-to-end ML pipelines, multi-agent orchestration, and scalable backend architecture across cloud, containerized, and edge deployments.
+**Machine Learning Engineer** building production **agentic AI systems**: multi-agent LLM orchestration, retrieval-augmented generation, and real-time voice/multimodal pipelines. Hands-on model work across **fine-tuning, pruning, and quantization**, shipping end-to-end in **Python and Go** — from embeddings and safety infrastructure to deployed services.
 
-Delivered enterprise AI solutions including a **multimodal agricultural intelligence platform**, an **ERP copilot**, and a **multi-agent call center system**.
+Recent work includes a production **multi-agent ERP copilot** (LangGraph supervisor–specialist orchestration, 15+ domain agents, 55+ tools over WebSocket), a **multilingual real-time voice call-center platform** (Twilio + streaming STT/TTS), and **pgvector-backed compliance RAG** with cited answers and human-in-the-loop safety controls.
+
+## Experience
+
+**Machine Learning Engineer** · Jan 2026 – Present
+- Architected a production multi-agent AI copilot embedded in an enterprise ERP: LangGraph supervisor–specialist orchestration, hybrid keyword+LLM intent routing across 15+ domain agents and 55+ tools over WebSocket, human-in-the-loop approvals gating writes, resumable async execution.
+- Engineered the agent safety layer over live business data: prompt-injection detection, sensitive-field redaction, RBAC, rate limiting, two-phase write confirmation, multi-turn persistence with entity extraction (SKUs, order IDs).
+- Built a multilingual real-time voice AI call-center platform (Twilio, LangGraph, FastAPI): streaming STT/TTS, autonomous call orchestration, AI-driven order processing in Bangla and English.
+- Shipped further domain platforms — energy-operations copilot (compliance RAG + Gemini Live inspection assistant), agricultural advisory, electrical fault diagnosis (BNBC/IEC), and semantic resume–job matching — on shared Go/FastAPI + pgvector + Gemini stacks.
+
+## Featured Projects
+
+**SkillTutor AI** · Whisper, LangGraph, Next.js (PWA)  
+Multimodal video-coaching platform orchestrating Whisper transcription, frame-level vision analysis, and LangGraph reasoning to turn uploaded videos into structured feedback with performance scoring and gap analysis.
+
+**Healthcare RAG Assistant** · FastAPI, FAISS, Sentence-Transformers, Docker  
+Multilingual healthcare RAG optimized for CPU-only, low-memory deployment with persistent indexing; CI/CD via GitHub Actions (automated testing, security scanning, multi-stage Docker builds).
 
 
 ## My Toolkit 🚀
@@ -40,6 +56,9 @@ Delivered enterprise AI solutions including a **multimodal agricultural intellig
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI SDK](https://img.shields.io/badge/OpenAI%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ### MLOps & Infrastructure
 
@@ -49,6 +68,8 @@ Delivered enterprise AI solutions including a **multimodal agricultural intellig
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=data-version-control&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -72,7 +93,7 @@ Delivered enterprise AI solutions including a **multimodal agricultural intellig
 
 ## What I'm Working On
 
-Currently at **Shothik AI**, building **multi-agent AI systems** with LangGraph and MCP, **production-grade RAG pipelines**, and **AI copilots** for enterprise clients. Recent work includes call center automation, ERP natural-language interfaces, and multimodal report generation with Gemini and Google ADK.
+Currently building **multi-agent AI systems** with LangGraph and MCP, **production-grade RAG pipelines**, and **enterprise AI copilots**. Recent focus: agent safety infrastructure (prompt-injection defense, RBAC, human-in-the-loop writes), real-time voice call-center automation (Twilio + streaming STT/TTS), and multimodal Gemini Live inspection assistants.
 
 ---
 
@@ -80,7 +101,7 @@ Currently at **Shothik AI**, building **multi-agent AI systems** with LangGraph 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)](https://1morshed1.github.io/portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morshedfahim87@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morshed-jamal-a2ab66170/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morshed-fahim-8274553bb/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1morshed1)
 
 ---
