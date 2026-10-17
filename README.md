@@ -18,20 +18,11 @@ Recent work includes a production **multi-agent ERP copilot** (LangGraph supervi
 
 ## Experience
 
-**Machine Learning Engineer** · Jan 2026 – Present
+**Machine Learning Engineer** · July 2024 – Present
 - Architected a production multi-agent AI copilot embedded in an enterprise ERP: LangGraph supervisor–specialist orchestration, hybrid keyword+LLM intent routing across 15+ domain agents and 55+ tools over WebSocket, human-in-the-loop approvals gating writes, resumable async execution.
 - Engineered the agent safety layer over live business data: prompt-injection detection, sensitive-field redaction, RBAC, rate limiting, two-phase write confirmation, multi-turn persistence with entity extraction (SKUs, order IDs).
 - Built a multilingual real-time voice AI call-center platform (Twilio, LangGraph, FastAPI): streaming STT/TTS, autonomous call orchestration, AI-driven order processing in Bangla and English.
 - Shipped further domain platforms — energy-operations copilot (compliance RAG + Gemini Live inspection assistant), agricultural advisory, electrical fault diagnosis (BNBC/IEC), and semantic resume–job matching — on shared Go/FastAPI + pgvector + Gemini stacks.
-
-## Featured Projects
-
-**SkillTutor AI** · Whisper, LangGraph, Next.js (PWA)  
-Multimodal video-coaching platform orchestrating Whisper transcription, frame-level vision analysis, and LangGraph reasoning to turn uploaded videos into structured feedback with performance scoring and gap analysis.
-
-**Healthcare RAG Assistant** · FastAPI, FAISS, Sentence-Transformers, Docker  
-Multilingual healthcare RAG optimized for CPU-only, low-memory deployment with persistent indexing; CI/CD via GitHub Actions (automated testing, security scanning, multi-stage Docker builds).
-
 
 ## My Toolkit 🚀
 
